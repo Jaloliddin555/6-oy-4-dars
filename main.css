@@ -1,0 +1,26 @@
+.number{
+    box-sizing: border-box;
+border: 3px solid rgb(42, 42, 42);
+border-radius: 30px;
+color: rgb(42, 42, 42);
+font-family: "Inter";
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+text-align: center;
+background: rgb(217, 217, 217);
+width: 331px;
+height: 51px;
+border: 20px;
+} 
+.Send{
+    box-sizing: border-box;
+border-radius: 30px;
+color: rgb(255, 255, 255);
+font-family: "Inter";
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+background: rgb(42, 42, 42);
+border: 30px;
+}
